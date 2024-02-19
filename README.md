@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @yavuzogurlu
-- 👀 I’m interested in Javascript, React, React Native
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @yavuzogurlu, A passionate Junior Software Developer from Turkey
+- 👀 I’m interested in Javascript, React, React Native, Cyber Security, Network Engineering
+- 🌱 I’m currently learning Javascript nad React
+- 💞️ I’m looking to collaborate on Web Design, App Development
 - 📫 How to reach me : yavuz.ogurlu@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: 
+- ⚡ Fun fact: 
 
 <!---
 yavuzogurlu/yavuzogurlu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
